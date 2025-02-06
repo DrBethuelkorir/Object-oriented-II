@@ -12,7 +12,7 @@ public class Student {
       System.out.println("Student id: " + studentID);
       System.out.println("Student age: " + studentAge);
       System.out.println("Student fee: " + studentFee);
-      System.out.println("Student grade: " + studentGrade);
+      
     }
   }
   
